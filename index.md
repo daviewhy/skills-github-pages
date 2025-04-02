@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-Catdog > Octocat
+description: Catdog > Octocat
 ---
 
